@@ -1,0 +1,48 @@
+h2{
+   color:red;
+   font-size:50;
+   letter-spacing:1px;
+   word-spacing:5px;
+   direction:rtl;
+   text-shadow:1px 3px black;
+}
+p{
+	color:green;
+	text-align:center;
+	text-decoration:italic;
+	text-indent:50px;
+	size:50px;
+	font-variant:small-caps;
+	font-family:Times New Roman;
+	font-weight:lighter;
+}
+body
+{
+text-align:center;
+border-style:dotted dashed inset ridge;
+dotted:top;
+dashed:right border;
+inset:left border;
+ridge:bottom;
+border-width:20px 20px 20px 20px;
+border-color:red yellow pink green;
+margin:30px 40px 50px 60px;
+top:30px;
+bottom:40px;
+left:50px;
+right:60px;
+padding:50px 20px;
+top:50px;
+bottom:20px;
+outline-color:red;
+outline-style:dotted;
+outline-offset:50px;
+}
+img
+ {
+	 display:block;
+	 margin-left:auto;
+	 margin-right:auto;
+	 border-style:dotted;
+ }
+	
